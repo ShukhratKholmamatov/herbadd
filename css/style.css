@@ -65,6 +65,10 @@ body {
   text-align: center;
 }
 
+a.navbar-brand span img{
+  width: 15%;
+}
+
 a,
 a:hover,
 a:focus {
@@ -145,7 +149,7 @@ a:focus {
 
 .navbar-brand span {
   font-weight: bold;
-  font-size: 24px;
+  font-size: 20px;
   color: #ffffff;
 }
 
@@ -158,13 +162,17 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
-  padding: 5px 20px;
+  padding: 5px 34px;
   color: #ffffff;
   text-align: center;
   text-transform: uppercase;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
+}
+
+.custom_nav-container .navbar-nav .nav-item{
+  
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
@@ -437,8 +445,8 @@ a:focus {
 }
 
 .service_section .box .img-box img {
-  max-width: 100%;
-  max-height: 100%;
+  max-width: 130%;
+  max-height: 130%;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
