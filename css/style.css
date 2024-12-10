@@ -131,7 +131,7 @@ a:focus {
 
 .sub_page .hero_area {
   min-height: auto;
-  background: linear-gradient(130deg, #231a6f, #0f054c);
+  background: linear-gradient(130deg, hsla(307, 100%, 15%, 1), hsla(307, 100%, 15%, 1));
 }
 
 .sub_page .hero_area .hero_bg_box {
@@ -281,7 +281,7 @@ a:focus {
 }
 
 .slider_section .detail-box {
-  color: #00204a;
+  color: hsla(307, 100%, 15%, 1);
 }
 
 .slider_section .detail-box h1 {
@@ -457,7 +457,7 @@ a:focus {
 }
 
 .service_section .box .detail-box a {
-  color: #00204a;
+  color: hsla(307, 100%, 15%, 1);
   font-weight: 600;
 }
 
@@ -491,7 +491,7 @@ a:focus {
 }
 
 .about_section {
-  background-color: #00204a;
+  background-color: hsla(307, 100%, 15%, 1);
   color: #ffffff;
 }
 
@@ -555,7 +555,7 @@ a:focus {
   min-width: 120px;
   min-height: 120px;
   border-radius: 100%;
-  border: 5px solid #00204a;
+  border: 5px solid hsla(307, 100%, 15%, 1);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -570,7 +570,7 @@ a:focus {
 .why_section .box .img-box img {
   width: 55px;
   height: auto;
-  fill: #00204a;
+  fill: hsla(307, 100%, 15%, 1);
 }
 
 .why_section .box h5 {
@@ -610,7 +610,7 @@ a:focus {
 /*team section */
 .team_section {
   text-align: center;
-  background-color: #00204a;
+  background-color: hsla(307, 100%, 15%, 1);
   color: #ffffff;
 }
 
@@ -749,7 +749,7 @@ a:focus {
 }
 
 .client_section .box .detail-box i {
-  color: #00204a;
+  color: hsla(307, 100%, 15%, 1);
   margin-bottom: 10px;
 }
 
@@ -778,12 +778,12 @@ a:focus {
 
 .client_section .owl-carousel .owl-nav .owl-prev:hover,
 .client_section .owl-carousel .owl-nav .owl-next:hover {
-  color: #00204a;
+  color: hsla(307, 100%, 15%, 1);
 }
 
 /* client section end */
 .info_section {
-  background-color: #00204a;
+  background-color: hsla(307, 100%, 15%, 1);
   color: #ffffff;
   padding: 45px 0 15px 0;
 }
@@ -927,7 +927,7 @@ a:focus {
 }
 
 .footer_section p {
-  color: #00204a;
+  color: hsla(307, 100%, 15%, 1);
   padding: 25px 0;
   margin: 0;
 }
