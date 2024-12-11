@@ -131,7 +131,7 @@ a:focus {
 
 .sub_page .hero_area {
   min-height: auto;
-  background: linear-gradient(130deg, hsla(307, 100%, 15%, 1), hsla(307, 100%, 15%, 1));
+  background: linear-gradient(130deg, #231a6f, #0f054c);
 }
 
 .sub_page .hero_area .hero_bg_box {
@@ -197,6 +197,8 @@ a:focus {
 
 .custom_nav-container .navbar-toggler {
   outline: none;
+  position: absolute;
+  right: 0;
 }
 
 .custom_nav-container .navbar-toggler {
@@ -208,6 +210,8 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler span {
+  position: absolute;
+  right: 0%;
   display: block;
   width: 35px;
   height: 4px;
@@ -223,7 +227,7 @@ a:focus {
 .custom_nav-container .navbar-toggler span::before, .custom_nav-container .navbar-toggler span::after {
   content: "";
   position: absolute;
-  left: 0;
+  right: 0%;
   height: 100%;
   width: 100%;
   background-color: #ffffff;
@@ -281,7 +285,7 @@ a:focus {
 }
 
 .slider_section .detail-box {
-  color: hsla(307, 100%, 15%, 1);
+  color: #00204a;
 }
 
 .slider_section .detail-box h1 {
@@ -457,7 +461,7 @@ a:focus {
 }
 
 .service_section .box .detail-box a {
-  color: hsla(307, 100%, 15%, 1);
+  color: #00204a;
   font-weight: 600;
 }
 
@@ -491,7 +495,7 @@ a:focus {
 }
 
 .about_section {
-  background-color: hsla(307, 100%, 15%, 1);
+  background-color: #00204a;
   color: #ffffff;
 }
 
@@ -555,7 +559,7 @@ a:focus {
   min-width: 120px;
   min-height: 120px;
   border-radius: 100%;
-  border: 5px solid hsla(307, 100%, 15%, 1);
+  border: 5px solid #00204a;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -570,7 +574,7 @@ a:focus {
 .why_section .box .img-box img {
   width: 55px;
   height: auto;
-  fill: hsla(307, 100%, 15%, 1);
+  fill: #00204a;
 }
 
 .why_section .box h5 {
@@ -610,7 +614,7 @@ a:focus {
 /*team section */
 .team_section {
   text-align: center;
-  background-color: hsla(307, 100%, 15%, 1);
+  background-color: #00204a;
   color: #ffffff;
 }
 
@@ -749,7 +753,7 @@ a:focus {
 }
 
 .client_section .box .detail-box i {
-  color: hsla(307, 100%, 15%, 1);
+  color: #00204a;
   margin-bottom: 10px;
 }
 
@@ -778,12 +782,12 @@ a:focus {
 
 .client_section .owl-carousel .owl-nav .owl-prev:hover,
 .client_section .owl-carousel .owl-nav .owl-next:hover {
-  color: hsla(307, 100%, 15%, 1);
+  color: #00204a;
 }
 
 /* client section end */
 .info_section {
-  background-color: hsla(307, 100%, 15%, 1);
+  background-color: #00204a;
   color: #ffffff;
   padding: 45px 0 15px 0;
 }
@@ -927,7 +931,7 @@ a:focus {
 }
 
 .footer_section p {
-  color: hsla(307, 100%, 15%, 1);
+  color: #00204a;
   padding: 25px 0;
   margin: 0;
 }
