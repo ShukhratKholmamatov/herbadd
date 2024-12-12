@@ -444,13 +444,13 @@ a:focus {
           align-items: flex-start;
   width: 125px;
   min-width: 75px;
-  height: 75px;
+  height: 105px;
   margin-bottom: 15px;
 }
 
 .service_section .box .img-box img {
-  max-width: 130%;
-  max-height: 130%;
+  max-width: 143%;
+  max-height: 143%;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
