@@ -442,15 +442,15 @@ a:focus {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
-  width: 125px;
-  min-width: 75px;
+  width: 155px;
+  min-width: 155px;
   height: 105px;
   margin-bottom: 15px;
 }
 
 .service_section .box .img-box img {
-  max-width: 143%;
-  max-height: 143%;
+  max-width: 110%;
+  max-height: 110%;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
